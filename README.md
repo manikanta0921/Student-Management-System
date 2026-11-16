@@ -5,6 +5,9 @@
 A full-stack Student Management System built using **React.js, Spring Boot, PostgreSQL, and Docker**. The application provides a web interface for managing student records, with a Spring Boot REST API and PostgreSQL database.
 
 ## Screenshots
+### application running
+<img width="1912" height="1070" alt="image" src="https://github.com/user-attachments/assets/37cb4b09-5e55-4857-9a83-b323946795f9" />
+
 
 ### Application Home Page
 
@@ -22,7 +25,6 @@ A full-stack Student Management System built using **React.js, Spring Boot, Post
 
 ### Docker Containers
 <img width="1917" height="1071" alt="image" src="https://github.com/user-attachments/assets/b1e1462e-9a4a-4648-9f3b-e3c8e8a4b045" />
-<img width="1917" height="1071" alt="image" src="https://github.com/user-attachments/assets/351fd55f-a7d6-4ade-abe9-5152401c1652" />
 
 
 ## Tech Stack
