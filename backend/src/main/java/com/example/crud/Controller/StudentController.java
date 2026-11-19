@@ -16,7 +16,10 @@ import org.springframework.web.bind.annotation.RestController;
 import com.example.crud.Dto.StudentDto;
 import com.example.crud.Entity.Student;
 import com.example.crud.Service.StudentService;
-@CrossOrigin(origins = "http://localhost:5174")
+@CrossOrigin(origins = {
+    "http://localhost:5174",
+    "http://localhost:3000"
+})
 @RestController
 @RequestMapping("students")
 public class StudentController {

@@ -1,0 +1,11 @@
+C:\Users\manik\OneDrive\Desktop\Student\backend\src\main\java\com\example\crud\Controller\ResponseStructure.java
+C:\Users\manik\OneDrive\Desktop\Student\backend\src\main\java\com\example\crud\Controller\StudentController.java
+C:\Users\manik\OneDrive\Desktop\Student\backend\src\main\java\com\example\crud\CrudApplication.java
+C:\Users\manik\OneDrive\Desktop\Student\backend\src\main\java\com\example\crud\Dto\StudentDto.java
+C:\Users\manik\OneDrive\Desktop\Student\backend\src\main\java\com\example\crud\Entity\Student.java
+C:\Users\manik\OneDrive\Desktop\Student\backend\src\main\java\com\example\crud\Entity\User.java
+C:\Users\manik\OneDrive\Desktop\Student\backend\src\main\java\com\example\crud\Exception\GlobalExceptionHandler.java
+C:\Users\manik\OneDrive\Desktop\Student\backend\src\main\java\com\example\crud\Exception\StudentNotFoundException.java
+C:\Users\manik\OneDrive\Desktop\Student\backend\src\main\java\com\example\crud\Repository\StudentRepository.java
+C:\Users\manik\OneDrive\Desktop\Student\backend\src\main\java\com\example\crud\Repository\UserRepository.java
+C:\Users\manik\OneDrive\Desktop\Student\backend\src\main\java\com\example\crud\Service\StudentService.java

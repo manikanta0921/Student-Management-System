@@ -1,5 +1,5 @@
 
-const API = "http://localhost:8080/students";
+const API = "/api/students";
 
 async function request(url, options = {}) {
   const response = await fetch(url, options);
